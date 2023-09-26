@@ -1,0 +1,2 @@
+DEVELOPMENT: Execute yarn dev
+PRODUCTION: Execute yarn start
